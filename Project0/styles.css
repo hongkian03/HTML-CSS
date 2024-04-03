@@ -1,3 +1,44 @@
+body, input {
+    font-size: 24px;
+}
+
+.links {
+    text-align: right;
+}
+
+a {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
 .searchbar {
     border-radius: 100px;
+    min-width: 30%;
+}
+
+.submit {
+    border-radius: 10px;
+    margin: 20px 5px 20px 5px;
+    display: inline;
+}
+
+input {
+    display: block;
+    text-align: center;
+    margin: auto;
+    height: em;
+}
+
+form {
+    margin-top: 10px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+    padding-top: 15%;
 }
