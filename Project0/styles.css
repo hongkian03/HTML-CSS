@@ -11,6 +11,10 @@ a {
     padding-right: 2px;
 }
 
+a:visited {
+    color: purple;
+}
+
 .searchbar {
     border-radius: 100px;
     min-width: 30%;
