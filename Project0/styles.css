@@ -46,3 +46,9 @@ img {
     display: block;
     padding-top: 15%;
 }
+
+.image_tag {
+    color: #4484f4;
+    margin: auto;
+    padding-left: 55%;
+}
