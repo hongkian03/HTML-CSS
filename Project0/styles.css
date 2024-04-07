@@ -17,7 +17,7 @@ a:visited {
 
 .searchbar {
     border-radius: 100px;
-    min-width: 30%;
+    min-width: 30vw;
 }
 
 .submit {

@@ -1,0 +1,30 @@
+.links {
+    text-align: right;
+    padding-bottom: 20px;
+}
+
+.advanced {
+    padding-top: 20px;
+}
+
+p {
+    display: inline;
+    padding-right: 10px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+fieldset {
+    border: 0;
+}
+
+form {
+    padding-top: 20px;
+}
+
+.submit {
+    background-color: #4484f4;
+    color: white;
+}
